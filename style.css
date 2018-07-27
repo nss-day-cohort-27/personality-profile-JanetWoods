@@ -1,0 +1,13 @@
+.flex-container {
+  display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    flex-flow: wrap;
+
+
+}
+/* flex-direction
+flex-flow
+justify-content
+align-items
+align-content */
